@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Vịnh Hạ Long",
+    "address": "Halong, Quang Ninh, Việt Nam",
+    "image_path": "[invalid url, do not cite]",
+    "description": "Vịnh Hạ Long là một di sản thiên nhiên thế giới với hàng nghìn hòn đảo đá vôi, là một trong những điểm du lịch nổi tiếng nhất của Việt Nam.",
+    "price": "Miễn phí",
+    "note": "Thời gian tốt nhất để tham quan là từ tháng 9 đến tháng 12.",
+    "suggestion": "Du thuyền trên vịnh, khám phá làng nổi, tham quan hang động.",
+    "category_id": 1,
+    "area": "Halong"
+  },
+  {
+    "name": "Chùa Thiên Mụ",
+    "address": "Hue, Thừa Thiên Huế, Việt Nam",
+    "image_path": "[invalid url, do not cite]",
+    "description": "Chùa Thiên Mụ là một ngôi chùa cổ kính ở Huế, là biểu tượng của thành phố với kiến trúc độc đáo bên sông Hương.",
+    "price": "Miễn phí",
+    "note": "Nên đi vào buổi sáng để ngắm cảnh sông Hương.",
+    "suggestion": "Tham quan chùa, chụp ảnh, tìm hiểu lịch sử.",
+    "category_id": 1,
+    "area": "Hue"
+  },
+  {
+    "name": "Hồ Hoàn Kiếm",
+    "address": "Hà Nội, Việt Nam",
+    "image_path": "[invalid url, do not cite]",
+    "description": "Hồ Hoàn Kiếm là biểu tượng của Hà Nội, với đền Ngọc Sơn và cầu Thê Húc, gắn liền với truyền thuyết vua Lê Lợi.",
+    "price": "Miễn phí",
+    "note": "Nên đi vào buổi sáng sớm hoặc chiều tối để tận hưởng không khí mát mẻ.",
+    "suggestion": "Dạo quanh hồ, tham quan đền Ngọc Sơn, thưởng thức cà phê phố cổ.",
+    "category_id": 1,
+    "area": "Hà Nội"
+  },
+  {
+    "name": "Phố Cổ Hội An",
+    "address": "Hội An, Quảng Nam, Việt Nam",
+    "image_path": "[invalid url, do not cite]",
+    "description": "Phố Cổ Hội An là một di sản văn hóa thế giới, nổi tiếng với kiến trúc cổ kính, đèn lồng và văn hóa ẩm thực.",
+    "price": "Miễn phí",
+    "note": "Nên đi vào buổi tối để ngắm đèn lồng lung linh.",
+    "suggestion": "Lang thang phố cổ, thưởng thức Cao Lầu, mua sắm quà lưu niệm.",
+    "category_id": 1,
+    "area": "Hội An"
+  },
+  {
+    "name": "Đảo Phú Quốc",
+    "address": "Phú Quốc, Kiên Giang, Việt Nam",
+    "image_path": "[invalid url, do not cite]",
+    "description": "Đảo Phú Quốc là một thiên đường nhiệt đới với bãi biển cát trắng, nước trong xanh và rừng nguyên sinh.",
+    "price": "Miễn phí (chi phí di chuyển và lưu trú riêng)",
+    "note": "Thời gian tốt nhất là từ tháng 12 đến tháng 3.",
+    "suggestion": "Tắm biển, khám phá rừng, thưởng thức hải sản tươi sống.",
+    "category_id": 1,
+    "area": "Phú Quốc"
+  },
+  {
+    "name": "Vườn Quốc Gia Ba Bể",
+    "address": "Ba Bể, Bắc Kạn, Việt Nam",
+    "image_path": "[invalid url, do not cite]",
+    "description": "Vườn Quốc Gia Ba Bể là một khu bảo tồn thiên nhiên với hồ Ba Bể, hang động và cảnh quan thiên nhiên đa dạng.",
+    "price": "Miễn phí",
+    "note": "Tốt nhất nên đi từ tháng 3 đến tháng 5 để thời tiết dễ chịu.",
+    "suggestion": "Tham quan hồ Ba Bể, khám phá hang động, đi bộ đường dài.",
+    "category_id": 1,
+    "area": "Bắc Kạn"
+  },
+  {
+    "name": "Thác Bản Giốc",
+    "address": "Trùng Khánh, Cao Bằng, Việt Nam",
+    "image_path": "[invalid url, do not cite]",
+    "description": "Thác Bản Giốc là một trong những thác nước lớn nhất Đông Nam Á, nằm trên biên giới Việt Nam-Trung Quốc.",
+    "price": "Miễn phí (chi phí chèo thuyền riêng)",
+    "note": "Nên đi vào mùa khô (tháng 10-12) để ngắm thác đẹp nhất.",
+    "suggestion": "Chèo thuyền trên sông, ngắm cảnh thác, khám phá khu du lịch.",
+    "category_id": 1,
+    "area": "Cao Bằng"
+  },
+  {
+    "name": "Kinh Thành Thăng Long",
+    "address": "Hà Nội, Việt Nam",
+    "image_path": "[invalid url, do not cite]",
+    "description": "Kinh Thành Thăng Long là một di sản văn hóa thế giới, nơi lưu giữ các di tích từ thế kỷ 6.",
+    "price": "VND 30,000",
+    "note": "Nên đi vào buổi sáng để tránh đông đúc.",
+    "suggestion": "Tham quan di tích, tìm hiểu lịch sử Việt Nam.",
+    "category_id": 1,
+    "area": "Hà Nội"
+  },
+  {
+    "name": "Lăng Chủ Tịch Hồ Chí Minh",
+    "address": "Hà Nội, Việt Nam",
+    "image_path": "[invalid url, do not cite]",
+    "description": "Lăng Chủ Tịch Hồ Chí Minh là nơi lưu giữ thi hài của vị lãnh tụ, một địa điểm linh thiêng.",
+    "price": "Miễn phí",
+    "note": "Mở cửa từ 8:00 sáng đến 11:00 sáng, thứ Bảy đến thứ Năm.",
+    "suggestion": "Tham quan lăng, tìm hiểu về lịch sử và văn hóa.",
+    "category_id": 1,
+    "area": "Hà Nội"
+  },
+  {
+    "name": "Bảo Tàng Chứng Tích Chiến Tranh",
+    "address": "Thành phố Hồ Chí Minh, Việt Nam",
+    "image_path": "[invalid url, do not cite]",
+    "description": "Bảo Tàng Chứng Tích Chiến Tranh trưng bày các hiện vật về chiến tranh Việt Nam, thu hút nhiều du khách.",
+    "price": "VND 40,000",
+    "note": "Nên đi vào buổi sáng để có thời gian khám phá kỹ.",
+    "suggestion": "Xem triển lãm, tìm hiểu lịch sử chiến tranh Việt Nam.",
+    "category_id": 1,
+    "area": "Thành phố Hồ Chí Minh"
+  }
+]
